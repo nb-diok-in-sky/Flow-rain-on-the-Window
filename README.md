@@ -1,6 +1,14 @@
 # Flow-rain-on-the-Window
 一个透过窗户看见水滴的小shader，考虑到这个前期的动画环节纯数学运算比较多，所以单独开了一个项目
 
+ # 效果展示
+<img width="1044" height="920" alt="Rain1" src="https://github.com/user-attachments/assets/95e9b102-a927-437a-8392-589725de7cdd" />
+
+
+<img width="1005" height="936" alt="Rain2" src="https://github.com/user-attachments/assets/6a01a8c7-fd6f-418c-ab55-3675881e6462" />
+
+主要展示 雨痕、并非纯粹圆形的水滴绘制、雨痕痕迹变清晰、毛玻璃效果的实现、以及随机XY轴方向的运动
+
 
 项目整体要实现一个玻璃上面有着雨滴滑落的效果
 将其分解不同的板块
